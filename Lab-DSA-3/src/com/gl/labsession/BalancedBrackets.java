@@ -4,12 +4,6 @@ import java.util.Stack;
 public class BalancedBrackets {
 	
 	
-	
-	
-	
-	
-	
-	
 
 	public static void main(String[] args) {
 		
@@ -63,9 +57,6 @@ public class BalancedBrackets {
 			
 			
 		}
-		
-		
-		
 		
 		return stack.isEmpty();
 	}
